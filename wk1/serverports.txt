@@ -1,0 +1,9 @@
+What is the definition of server port?
+Server ports are endpoints which allow for communication between servers and clients.
+
+What is server port range?
+Port numbers are allowed from 0 to 65535, 
+but only ports numbers 0 to 1024 are reserved for services which come with your operating system.
+
+How many bits does number above represent?
+0 to 65535 represents a 16 bit unsigned integer in binary.
