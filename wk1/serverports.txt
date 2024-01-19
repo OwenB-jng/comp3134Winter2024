@@ -7,3 +7,15 @@ but only ports numbers 0 to 1024 are reserved for services which come with your 
 
 How many bits does number above represent?
 0 to 65535 represents a 16 bit unsigned integer in binary.
+
+State 10 common server ports.
+HTTP: 80
+HTTPS: 443
+FTP: 21
+SSH: 22
+Telnet: 23
+SMTP: 25
+DNS: 53
+DHCP: 67 (Server) and 68 (Client)
+POP3: 110
+IMAP: 143
